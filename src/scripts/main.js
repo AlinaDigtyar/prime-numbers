@@ -8,7 +8,7 @@
       if (x % y == 0) continue nextPrimeNumber;
     }
 
-    console.log(x); // prime number
+    alert(x); // prime number
   }
 	
 })();
